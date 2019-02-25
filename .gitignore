@@ -1,6 +1,10 @@
+# Directories
+dist/
+venv/
+.vscode/
+
+# Files
 *.pyc
-/dist
 *.egg-info
 .DS_Store
-/venv
-/.vscode
+*.pgm
